@@ -1,7 +1,8 @@
-# LH1000CallLog
+# Call Log Viewer
+### For the Arcadyan LH1000 (Telstra Smart Modem Gen 2)
 Displays the modem's call log with a one line command
 
-## Usage and Installation
+### Usage and Installation
 
 **NOTE: This requires Python 3**
 
